@@ -1,0 +1,7 @@
+cat << 'EOF' > .gitignore
+hazy_env/
+__pycache__/
+.DS_Store
+*.pyc
+.vscode/
+EOF
